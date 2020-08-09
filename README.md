@@ -6,7 +6,7 @@
 - Art of randomness (Graphics with random results based on some rules)
 
 ## 🌱 I’m currently learning ...
-- [Processing](https://processing.org/)
+- [![Processing](https://img.shields.io/badge/-Processing-000000?style=for-the-badge&logo=processing)](https://processing.org/)
 
 ## 📫 How to reach me: ...
 - [![Instagram](https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram)](https://www.instagram.com/creativevisualcoding/)
