@@ -1,7 +1,7 @@
 # Hi and welcome to my creative corner 👋
 
 ## 🔭 I’m currently working on ...
-- 3D animations (3D objects in a 2s world)
+- 3D animations (3D objects in a 2D world)
 - Interactiv graphics (Graphics that change through user interaction)
 - Art of randomness (Graphics with random results based on some rules)
 
