@@ -4,7 +4,7 @@
 - 3D animations (3D objects in a 2D world)
 - Interactiv graphics (Graphics that change through user interaction)
 - Art of randomness (Graphics with random results based on some rules)
-- Building Apps
+- The Odin Project
 
 ## 🌱 I’m currently learning ...
  [![Processing](https://img.shields.io/badge/-Processing-000000?style=for-the-badge&logo=processing)](https://processing.org/)
